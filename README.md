@@ -1,1 +1,4 @@
-# Git Öğrenme Projesi [Versiyon A ve B]
+# Git Öğrenme Projesi [Versiyon A ve B birleşti]
+
+## Hakkında
+Bu depo git öğrenmek için kullanılıyor.
